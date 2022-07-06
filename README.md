@@ -3,7 +3,7 @@
 
 
 ## Demo
-#### Here is a working live demo :  https://crypto-hunter-2213.netlify.app/
+#### [Check out the Website here](https://crypto-hunter-2213.netlify.app/)
 
 ## Built with 
 
